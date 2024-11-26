@@ -1,2 +1,5 @@
 Ehllo! My name is lee si young
-Kumoh National institute of Technology.
+KIT(Kumoh National institute of Technology)
+
+Computer Sciences
+C programming
